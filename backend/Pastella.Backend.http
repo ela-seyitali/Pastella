@@ -1,0 +1,6 @@
+@Pastella.Backend_HostAddress = http://localhost:5087
+
+GET {{Pastella.Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
